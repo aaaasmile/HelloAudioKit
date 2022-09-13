@@ -2,8 +2,9 @@
 
 ## Hardware
 
-Based on [ESP32-A1S-AudioKit](https://docs.ai-thinker.com/en/esp32-audio-kit)
-In oreder to flash the device, connect the microusb UART port, not the power.
+Based on [ESP32-A1S-AudioKit](https://docs.ai-thinker.com/en/esp32-audio-kit).
+
+In order to flash the device, connect the microusb UART port, not the power.
 In device manager appear a COM7 connection, also visible inside the platformIO devices.
 The connection is a bridge usb to uart.
 
